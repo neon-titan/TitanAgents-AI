@@ -1,0 +1,9 @@
+[submodule "external/langchain"]
+	path = external/langchain
+	url = https://github.com/langchain-ai/langchain.git
+[submodule "external/Auto-GPT"]
+	path = external/Auto-GPT
+	url = https://github.com/Significant-Gravitas/Auto-GPT.git
+[submodule "external/BabyAGI"]
+	path = external/BabyAGI
+	url = https://github.com/yoheinakajima/babyagi.git
